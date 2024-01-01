@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "575728194603",
+    "project_id": "hind-becc6",
+    "storage_bucket": "hind-becc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575728194603:android:a0cb47b6632ec10e42866e",
+        "android_client_info": {
+          "package_name": "com.example.hind"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnlDDgnuoZB50W3_az4PfGnMJPpQYjhMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
